@@ -128,7 +128,7 @@ NOTE: Uncomment these sections after adding your gameplay GIF and YouTube video
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/tank-battle-simulation.git
+git clone https://github.com/DhruvAgg05/tank-battle-simulation.git
 cd tank-battle-simulation
 ```
 
