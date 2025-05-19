@@ -156,7 +156,7 @@ NOTE: Uncomment these sections after adding your gameplay GIF and YouTube video
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Keshav-Bansal05/Tank-Battle-LAN-Multiplayer.git
+git clone https://github.com/DhruvAgg05/Tank-Battle-LAN-Multiplayer.git
 cd Tank-Battle-LAN-Multiplayer
 ```
 
